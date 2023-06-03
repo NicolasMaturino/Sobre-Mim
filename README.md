@@ -7,8 +7,8 @@ Olá! Meu nome é Nicolas e sou um estudante de Desenvolvimento Web. Tenho 20 an
 ## Habilidades Técnicas
 
 - Linguagens: estudando Html, Css e Javascript
-- Frameworks e bibliotecas: Em busca de con
-- Outras habilidades: tecnologia da informação pelo Senai.
+- Frameworks e bibliotecas: Nenhum - Em busca de conhecimento.
+- Outras habilidades: Proativo, Idealista.
 
 ## Projetos Destacados
 
